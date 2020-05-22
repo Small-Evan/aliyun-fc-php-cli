@@ -5,6 +5,12 @@
 
 
 #### 使用说明
+```
+git clone https://gitee.com/wupz/aliyun-fc-php-cli.git
+cd aliyun-fc-php-cli
+composer install
+```
+
 config.php
 ```
 $config = [
@@ -13,8 +19,6 @@ $config = [
     "accessKeySecret" => 'accessKeySecret',//RAM 用户的accessKeySecret
 ];
 ```
-
-
 
 - 列出服务: php index.php listServices
 

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "aliyunfc/fc-php-sdk": "^1.2"
+    }
+}
