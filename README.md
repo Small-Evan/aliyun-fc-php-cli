@@ -15,6 +15,9 @@ $config = [
 ```
 
 
-列出服务: php index.php listServices
-列出函数: php index.php Listfunctions [ServiceName]
-配置预留资源: php index.php SetProvision [ServiceName] [Alias] [Target]
+
+- 列出服务: php index.php listServices
+
+- 列出函数: php index.php Listfunctions [ServiceName]
+
+- 配置预留资源: php index.php SetProvision [ServiceName] [Alias] [Target]
